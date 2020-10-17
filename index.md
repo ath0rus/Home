@@ -7,6 +7,6 @@ I am currently finishing off yr12 (highschool) in Australia, So besides studdyin
 [Python Tutorial](https://github.com/ath0rus/Python-Tutorial)\
 [Github account](https://github.com/ath0rus)\
 [Cordless Cat](https://discord.gg/7EtsJtn) (my Discord server)\
-[Youtube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjA5PHMjrjsAhXtyjgGHYXJAuYQFjAAegQIBRAC&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCJjoKeRSMz5Lt2XwNVmxmQQ&usg=AOvVaw11WBdXlWOtVs1z9CUd0dSP)\
+[Youtube](https://www.youtube.com/channel/UCJjoKeRSMz5Lt2XwNVmxmQQ)\
 [Twitter](https://twitter.com/ath0rus)\
 [Stack Overflow](https://stackoverflow.com/users/10312341/ath0rus)
