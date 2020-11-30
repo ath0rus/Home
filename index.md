@@ -3,7 +3,10 @@ I am ath0rus (not my real name), "I love playing with code and making random and
 
 I have finished all my exams at school and am getting ready to graduate. Recently I have been working on some coding projects, Mainly in python and some non coding projects like [Blender](https://www.blender.org/). I am also learning all about [Arduino's](https://www.arduino.cc/en/Guide/Introduction), and how to code them. If you want to have a look at any of my coding projects follow [this link](https://github.com/ath0rus) to my github account. If you want to see my Blender Renders I will post them In my [Discord server](https://discord.gg/q62V7SRfxE). Below are a few links to my other website and projects i am working on.
 
-### Other websties/ projects
+### Other websties
+Any of these links below are subject to change without notice and may not work\
+[Links Page](https://ath0rus.github.io)\
+[Projects](https://ath0rus.github.io/Projects)\
 [Python Tutorial](https://github.com/ath0rus/Python-Tutorial)\
 [Github account](https://github.com/ath0rus)\
 [Cordless Cat](https://discord.gg/q62V7SRfxE) (my Discord server)\
